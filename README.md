@@ -1,6 +1,7 @@
 # postgres
 Bastille Template for PostgreSQL Jail
 
+ STATUS:  Testing
 
 Once this is installed you need to edit the config files.
 
